@@ -14,7 +14,7 @@ The following diagram illustrate the components of the system. As we can see, th
 ![BBBBB](https://user-images.githubusercontent.com/22806623/190268504-d89c6fc2-6d02-4b60-9f50-7fe7364c47a6.png)
 
 
-Below shows the system working along with the bluetooth module and the android app.
+Below shows the system working along with the bluetooth module and the android app:
 
 https://user-images.githubusercontent.com/22806623/190268112-039ca4ef-fb33-4bf8-ac51-12bf467b1348.mp4
 
