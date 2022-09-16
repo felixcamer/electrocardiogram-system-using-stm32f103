@@ -5,8 +5,8 @@ A comparison of the heart rate of the device was done against the standard devic
 
 The short video illustrate the system running without transfering the data to the mobile phone.
 
-https://user-images.githubusercontent.com/22806623/190268091-5e30ebe7-b1be-4f4a-bbb2-6cfce6b9c817.mp4
 
+[![electrocardiogram-system-using-stm32f103](https://img.youtube.com/vi/JplmBYr1th0/0.jpg)](https://www.youtube.com/watch?v=JplmBYr1th0)
 
 The following diagram illustrate the components of the system. As we can see, the system has a HC05 module, a microcontroller, an ADS1292R electrocardiogram analog front end (AFE), a LCD. The AFE communicates with the STM32F103 througth the SPI ptotocol.
 
