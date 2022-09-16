@@ -16,8 +16,8 @@ The following diagram illustrate the components of the system. As we can see, th
 
 Below shows the system working along with the bluetooth module and the android app:
 
-https://user-images.githubusercontent.com/22806623/190268112-039ca4ef-fb33-4bf8-ac51-12bf467b1348.mp4
 
+[![electrocardiogram-system-using-stm32f103](https://img.youtube.com/vi/aHwbFrkWZwA/0.jpg)](https://www.youtube.com/watch?v=aHwbFrkWZwA)
 
 Software and programming language used in this project:
 
