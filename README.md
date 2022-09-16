@@ -18,6 +18,7 @@ Below shows the system working along with the bluetooth module and the android a
 
 
 [![electrocardiogram-system-using-stm32f103](https://img.youtube.com/vi/aHwbFrkWZwA/0.jpg)](https://www.youtube.com/watch?v=aHwbFrkWZwA)
+[![electrocardiogram-system-using-stm32f103](https://img.youtube.com/vi/aHwbFrkWZwA/0.jpg)](https://www.youtube.com/watch?v=aHwbFrkWZwA)
 
 Software and programming language used in this project:
 
